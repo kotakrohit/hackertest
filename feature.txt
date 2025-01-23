@@ -1,1 +1,5 @@
+
 Feature: Conflicting version from branch
+
+Feature: Modified version from feature branch
+
