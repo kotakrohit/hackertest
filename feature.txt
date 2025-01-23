@@ -1,1 +1,1 @@
-hello
+Feature: Initial version of feature.txt
