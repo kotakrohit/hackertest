@@ -1,1 +1,1 @@
-Feature: Main Branch version
+Feature: Conflicting version from branch
